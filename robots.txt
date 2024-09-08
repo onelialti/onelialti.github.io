@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://onelialti.github.io/sitemap.html.gz
+Sitemap: https://onelialti.github.io/app/sitemap.html.gz
+Sitemap: https://onelialti.github.io/assets/sitemap.html.gz
+Sitemap: https://onelialti.github.io/css/sitemap.html.gz
+Sitemap: https://onelialti.github.io/includes/sitemap.html.gz
+Sitemap: https://onelialti.github.io/item/sitemap.html.gz
+Sitemap: https://onelialti.github.io/src/sitemap.html.gz
